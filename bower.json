@@ -1,0 +1,12 @@
+{
+  "name": "Yipiii-dependencies",
+  "private": true,
+  "dependencies": {
+    "ember":      "~> 1.6.1",
+    "ember-data": "~> 1.0.0-beta.8",
+    "emblem.js": "~> 0.3.17",
+    "normalize.css":  "~> 3"
+  },
+  "devDependencies": {
+  }
+}

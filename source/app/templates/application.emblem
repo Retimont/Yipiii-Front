@@ -1,0 +1,15 @@
+div#authentication
+
+  h1.header
+    | Log in
+
+  .fields
+    = input name='email' type='text' value=email placeholder='Email address'
+    = input name='password' type='password' value=password placeholder='Password'
+    label
+      = input name='rememberMe' type='checkbox' value='yes'
+      | Remember me
+    = link-to 'application' | Can&#039;t remember your password?
+
+  .action
+    = input name='submit' type='submit'

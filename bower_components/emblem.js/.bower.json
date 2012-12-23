@@ -1,0 +1,21 @@
+{
+  "name": "emblem.js",
+  "version": "0.3.17",
+  "main": [
+    "./emblem.js",
+    "./emblem.min.js"
+  ],
+  "dependencies": {
+    "handlebars": "~> 1.1.0"
+  },
+  "homepage": "https://github.com/machty/emblem-component",
+  "_release": "0.3.17",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.3.17",
+    "commit": "a923234e231b8d1ad7d487257b7e60ccc6e83006"
+  },
+  "_source": "git://github.com/machty/emblem-component.git",
+  "_target": "~> 0.3.17",
+  "_originalSource": "emblem.js"
+}
